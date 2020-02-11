@@ -1,5 +1,7 @@
 """
-Coppersmith, Don, and Adi Shamir. "Lattice attacks on NTRU." International Conference on the Theory and Applications of Cryptographic Techniques. Springer, Berlin, Heidelberg, 1997.
+Coppersmith, Don, and Adi Shamir. "Lattice attacks on NTRU."
+International Conference on the Theory and Applications of Cryptographic Techniques.
+Springer, Berlin, Heidelberg, 1997.
 """
 class Chall:
     def __init__(self, N, p, q):
